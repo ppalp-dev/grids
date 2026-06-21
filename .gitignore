@@ -1,0 +1,4 @@
+smc_grid_agent/.venv/
+smc_grid_agent/.env
+__pycache__/
+*.pyc
